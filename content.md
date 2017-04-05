@@ -2349,4 +2349,56 @@ Ping 8.8.8.8
 ```
 
 
+### Alert
+Some text
+
+#### :warning: ALERT
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+
+
+
+
+### Knowledge box
+Some text
+
+#### :bulb: KNOWLEDGE
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+
+
+
+
+### Alert and Knowledge box
+Some Text
+
+#### :warning: ALERT
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+#### :bulb: KNOWLEDGE
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+
+
+
 
