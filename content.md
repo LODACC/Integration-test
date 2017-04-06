@@ -278,9 +278,10 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Subscript
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890</sub>
+
 
 
 
@@ -849,12 +850,12 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Subscript
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890-=  
-\`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\  
-,./<>?
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890-=</sub>  
+<sub>`~!@#$%^&amp;*()_+</sub>  
+<sub>[]{}\</sub>  
+<sub>,./&lt;&gt;?</sub>
 
 
 
