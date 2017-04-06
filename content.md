@@ -2,7 +2,7 @@
 <!---
 Version: 1.0 
 -->
-# Exercise 3
+# Most Special Characters
 ## INTRODUCTION MESSAGE
 
 
@@ -449,7 +449,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-# Exercise 4
+# No Special Characters
 ## INTRODUCTION MESSAGE
 
 
@@ -916,7 +916,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-# Exercise 1
+# All Special Characters
 ## INTRODUCTION MESSAGE
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
