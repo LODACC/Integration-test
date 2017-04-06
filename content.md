@@ -2,7 +2,7 @@
 <!---
 Version: 1.0 
 -->
-# No Special Characters
+# Exercise 3
 ## INTRODUCTION MESSAGE
 
 
@@ -469,7 +469,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-# Some Special Characters
+# Exercise 4
 ## INTRODUCTION MESSAGE
 
 
