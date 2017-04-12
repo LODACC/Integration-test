@@ -585,12 +585,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <sub>[]{}\</sub>  
 <sub>,./&lt;&gt;?</sub>  
   
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890-=`  
-``~!@#$%^&amp;*()_+`  
-`[]{}\`  
-`,./&lt;&gt;?`
+
 
 
 ## COMPLETION MESSAGE
@@ -708,12 +703,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <sub>[]{}\</sub>  
 <sub>,./&lt;&gt;?</sub>  
   
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890-=`  
-``~!@#$%^&amp;*()_+`  
-`[]{}\`  
-`,./&lt;&gt;?`
+
 
 
 ### Standard
@@ -861,12 +851,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Code
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890-=`  
-``~!@#$%^&amp;*()_+`  
-`[]{}`  
-`,./&lt;&gt;?`
+Test
 
 
 
