@@ -36,34 +36,34 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 1. abcdefghijklmnopqrstuvwxyz
 2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
-3. 1234567890
+3. 
 
 
 
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 <sup>abcdefghijklmnopqrstuvwxyz</sup>  
 <sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
@@ -83,62 +83,62 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 - abcdefghijklmnopqrstuvwxyz
 - ABCDEFGHIJKLMNOPQRSTUVWXYZ
-- 1234567890
+- 
 
  - abcdefghijklmnopqrstuvwxyz
  - ABCDEFGHIJKLMNOPQRSTUVWXYZ
- - 1234567890
+ - 
 
 
 
 
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 1. abcdefghijklmnopqrstuvwxyz
 2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
-3. 1234567890
+3. 
 
 
 
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890  
+  
   
 <sup>abcdefghijklmnopqrstuvwxyz</sup>  
 <sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
@@ -156,7 +156,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Standard
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -235,7 +235,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Font Family
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 
@@ -244,7 +244,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Font Size
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 
@@ -253,7 +253,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Underline
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 
@@ -262,7 +262,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### StrikeThrough
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 
 
@@ -304,9 +304,6 @@ abcdefghijklmnopqrstuvwxyz
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-
-
-1234567890
 
 
 
