@@ -320,9 +320,14 @@ Added Eject DVD
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
+Added Type Text
 
-
-
+#### :calling: COMMAND
+```TypeText
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+```
 
 
 ### PowerShell
