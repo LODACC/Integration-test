@@ -2,7 +2,7 @@
 <!---
 Version: 1.0 
 -->
-# Exercise 3
+# Exercise 1
 ## INTRODUCTION MESSAGE
 
 
@@ -160,7 +160,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754594.jpg
+>* Uri = screens/754594.jpg
 >* ShowAutomatically = No
 
 
@@ -174,7 +174,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754595.jpg
+>* Uri = screens/754595.jpg
 
 
 
@@ -187,7 +187,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754596.jpg
+>* Uri = screens/754596.jpg
 
 
 
@@ -200,7 +200,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754597.jpg
+>* Uri = screens/754597.jpg
 
 
 
@@ -213,7 +213,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754598.jpg
+>* Uri = screens/754598.jpg
 
 
 
@@ -226,7 +226,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = 754599.jpg
+>* Uri = screens/754599.jpg
 
 
 
@@ -281,7 +281,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <sub>abcdefghijklmnopqrstuvwxyz</sub>  
 <sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
 <sub>1234567890</sub>
-
 
 
 
@@ -470,7 +469,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-# Exercise 4
+# Exercise 2
 ## INTRODUCTION MESSAGE
 
 
@@ -911,6 +910,326 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 \`~!@\#$%^&\*\)test)\_\+  
 \[Test\]\{test\}\\  
 ,./<Test>?
+
+
+
+
+
+
+# Exercise 3
+## INTRODUCTION MESSAGE
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+- abcdefghijklmnopqrstuvwxyz
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- 1234567890-=
+- \`~!@\#$%^&\*\))\_\+
+- \[\]\{\}\\|
+- ,./<>?
+
+ - abcdefghijklmnopqrstuvwxyz
+ - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ - 1234567890-=
+ - \`~!@\#$%^&\*\))\_\+
+ - \[\]\{\}\\|
+ - ,./<>?
+
+
+
+
+**abcdefghijklmnopqrstuvwxyz**  
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
+**1234567890-=**  
+**\`~!@\#$%^&\*\))\_\+**  
+**\[\]\{\}\\**|  
+**,./<>?**  
+  
+*abcdefghijklmnopqrstuvwxyz*  
+*ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
+*1234567890-=*  
+*\`~!@\#$%^&\*\))\_\+*  
+*\[\]\{\}\\*|  
+*,./<>?*  
+  
+***abcdefghijklmnopqrstuvwxyz***  
+***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
+***1234567890-=***  
+***\`~!@\#$%^&\*\))\_\+***  
+***\[\]\{\}\\***|  
+***,./<>?***  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+1. abcdefghijklmnopqrstuvwxyz
+2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3. 1234567890-=
+4. \`~!@\#$%^&\*\))\_\+
+5. \[\]\{\}\\|
+6. ,./<>?
+
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+<sup>abcdefghijklmnopqrstuvwxyz</sup>  
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
+<sup>1234567890-=</sup>  
+<sup>`~!@#$%^&amp;*()_+</sup>  
+<sup>[]{}\|</sup>  
+<sup>,./&lt;&gt;?</sup>  
+  
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890-=</sub>  
+<sub>`~!@#$%^&amp;*()_+</sub>  
+<sub>[]{}\</sub>|  
+<sub>,./&lt;&gt;?</sub>  
+  
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890-=`  
+``~!@#$%^&amp;*()_+`  
+`[]{}\`|  
+`,./&lt;&gt;?`
+
+
+## COMPLETION MESSAGE
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+- abcdefghijklmnopqrstuvwxyz
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- 1234567890-=
+- \`~!@\#$%^&\*\))\_\+
+- \[\]\{\}\\|
+- ,./<>?
+
+ - abcdefghijklmnopqrstuvwxyz
+ - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ - 1234567890-=
+ - \`~!@\#$%^&\*\))\_\+
+ - \[\]\{\}\\|
+ - ,./<>?
+
+
+
+
+**abcdefghijklmnopqrstuvwxyz**  
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
+**1234567890-=**  
+**\`~!@\#$%^&\*\))\_\+**  
+**\[\]\{\}\\**|  
+**,./<>?**  
+  
+*abcdefghijklmnopqrstuvwxyz*  
+*ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
+*1234567890-=*  
+*\`~!@\#$%^&\*\))\_\+*  
+*\[\]\{\}\\*|  
+*,./<>?*  
+  
+***abcdefghijklmnopqrstuvwxyz***  
+***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
+***1234567890-=***  
+***\`~!@\#$%^&\*\))\_\+***  
+***\[\]\{\}\\***|  
+***,./<>?***  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+1. abcdefghijklmnopqrstuvwxyz
+2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3. 1234567890-=
+4. \`~!@\#$%^&\*\))\_\+
+5. \[\]\{\}\\|
+6. ,./<>?
+
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?  
+  
+<sup>abcdefghijklmnopqrstuvwxyz</sup>  
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
+<sup>1234567890-=</sup>  
+<sup>`~!@#$%^&amp;*()_+</sup>  
+<sup>[]{}\|</sup>  
+<sup>,./&lt;&gt;?</sup>  
+  
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890-=</sub>  
+<sub>`~!@#$%^&amp;*()_+</sub>  
+<sub>[]{}\</sub>|  
+<sub>,./&lt;&gt;?</sub>  
+  
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890-=`  
+``~!@#$%^&amp;*()_+`  
+`[]{}\`|  
+`,./&lt;&gt;?`
+
+
+### Standard
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+
+
+
+### Bold
+**abcdefghijklmnopqrstuvwxyz**  
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
+**1234567890-=**  
+**\`~!@\#$%^&\*\))\_\+**  
+**\[\]\{\}\\|**  
+**,./<>?**
+
+
+
+
+
+### Italics
+*abcdefghijklmnopqrstuvwxyz*  
+*ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
+*1234567890-=*  
+*\`~!@\#$%^&\*\))\_\+*  
+*\[\]\{\}\\|*  
+*,./<>?*
+
+
+
+
+
+### Bold Italic
+***abcdefghijklmnopqrstuvwxyz***  
+***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
+***1234567890-=***  
+***\`~!@\#$%^&\*\))\_\+***  
+***\[\]\{\}\\|***  
+***,./<>?***
+
+
+
+
+
+### Text Color
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
+
+
+
+
+
+### Background Color
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\|  
+,./<>?
 
 
 
