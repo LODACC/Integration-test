@@ -423,6 +423,24 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 
+### Bullet Points
+
+- abcdefghijklmnopqrstuvwxyz
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- 1234567890
+
+
+
+
+
+
+
+### Numbered
+
+1. abcdefghijklmnopqrstuvwxyz
+2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3. 1234567890
+
 
 
 # Exercise 2
