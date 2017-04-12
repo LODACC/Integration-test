@@ -17,7 +17,7 @@ Scenario
 Scenario 
 
 
-### Task name (Required)
+### Task name
 
 Task text 
 
