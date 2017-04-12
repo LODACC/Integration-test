@@ -285,6 +285,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
+Add Switch Machine
 
 #### :computer: ACTIONS
 >LODSProperties
