@@ -29,15 +29,5 @@ Task alert (Optional - you can omit this node)
 
 Task idea (Optional - you can omit this node)
 
-#### :camera: SCREENSHOT
-
-
-#### :movie_camera: VIDEO
-
-
-#### :calling: COMMAND
-
-
-#### :computer: ACTIONS
 
 
