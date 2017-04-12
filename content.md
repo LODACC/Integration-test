@@ -307,10 +307,12 @@ Added Eject Floppy
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
+Added Eject DVD
 
 
-
-
+#### :computer: ACTIONS
+>LODSProperties
+>* DVDDrive = True
 
 
 
