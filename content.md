@@ -266,51 +266,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-### VM Select
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
-
-
-
-
-#### :computer: ACTIONS
->LODSProperties
->* VM = Windows 10
-
-
-
-### Eject Floppy
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
-
-
-
-
-#### :computer: ACTIONS
->LODSProperties
->* FloppyDrive = True
-
-
-
-### Eject DVD
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
-
-
-
-
-#### :computer: ACTIONS
->LODSProperties
->* DVDDrive = True
-
-
-
-
-
-
 
 
 
