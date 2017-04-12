@@ -1,26 +1,43 @@
 
 <!---
-Version: 3.0 
+Version: 1.0 
 -->
-# Exercise 1
-## INTRODUCTION MESSAGE
 
-# Exercise 1
-## INTRODUCTION MESSAGE
 
-Update Test
+* * *
 
-## Summary Message
 
-Update Test
+# Exercise name (Required)
 
-### Step 1
-Update Test
+## Scenario
+Scenario (Optional - you can omit this node)
 
-### Step 2
+## COMPLETION MESSAGE
 
-Update Test
+Scenario (Optional - you can omit this node)
 
-### Step 3
 
-Update Test
+### Task name (Required)
+
+Task text (Required)
+
+### :warning: ALERT
+
+Task alert (Optional - you can omit this node)
+
+### :bulb: KNOWLEDGE
+
+Task idea (Optional - you can omit this node)
+
+#### :camera: SCREENSHOT
+
+
+#### :movie_camera: VIDEO
+
+
+#### :calling: COMMAND
+
+
+#### :computer: ACTIONS
+
+
