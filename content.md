@@ -118,7 +118,12 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 <sub>[]{}\</sub>  
 <sub>,./&lt;&gt;?</sub>  
   
-Removed Code
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890-=`  
+``~!@#$%^&amp;*()_+`  
+`[]{}\`  
+`,./&lt;&gt;?`
 
 
 ## COMPLETION MESSAGE
@@ -389,7 +394,12 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Code
-Test
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890-=`  
+``~!@#$%^&amp;*()_+`  
+`[]{}`  
+`,./&lt;&gt;?`
 
 
 
