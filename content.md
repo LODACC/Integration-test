@@ -286,7 +286,9 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 
-
+#### :computer: ACTIONS
+>LODSProperties
+>* VM = Windows 10
 
 
 
