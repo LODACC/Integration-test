@@ -289,9 +289,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-#### :computer: ACTIONS
->LODSProperties
->* VM = Windows 10
 
 
 
@@ -303,9 +300,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-#### :computer: ACTIONS
->LODSProperties
->* FloppyDrive = True
 
 
 
@@ -317,9 +311,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-#### :computer: ACTIONS
->LODSProperties
->* DVDDrive = True
 
 
 
@@ -330,12 +321,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-#### :calling: COMMAND
-```TypeText
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-1234567890
-```
 
 
 ### PowerShell
@@ -343,21 +328,10 @@ Text
 
 
 
-#### :calling: COMMAND
-```PowerShell
-Ping 8.8.8.8
-```
 
 
 ### PowerShell with UI
 Some Text
-
-
-
-#### :calling: COMMAND
-```PowerShellWithUi
-Ping 8.8.8.8
-```
 
 
 ### Shell
@@ -365,21 +339,12 @@ Some text
 
 
 
-#### :calling: COMMAND
-```Shell
-Ping 8.8.8.8
-```
-
 
 ### Shell with UI
 Some text
 
 
 
-#### :calling: COMMAND
-```ShellWithUi
-Ping 8.8.8.8
-```
 
 
 ### Alert
