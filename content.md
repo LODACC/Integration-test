@@ -285,12 +285,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
-Add Switch Machine
-
-#### :computer: ACTIONS
->LODSProperties
->* VM = Windows 10
-
+Added Switch Machine
 
 
 
@@ -299,9 +294,11 @@ Add Switch Machine
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
+Added Eject Floppy
 
-
-
+#### :computer: ACTIONS
+>LODSProperties
+>* FloppyDrive = True
 
 
 
