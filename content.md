@@ -1,7 +1,3 @@
-
-<!---
-Version: 1.0 
--->
 # Exercise 1
 ## INTRODUCTION MESSAGE
 
