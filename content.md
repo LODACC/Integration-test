@@ -14,9 +14,7 @@ Test
 Test
 
 ### Standard
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+Test
 
 
 
