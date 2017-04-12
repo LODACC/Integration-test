@@ -65,17 +65,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
   
   
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>  
-  
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890`
+
 
 
 ## COMPLETION MESSAGE
@@ -140,17 +130,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
   
   
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>  
-  
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890`
+
 
 
 ### Standard
@@ -158,10 +138,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754594.jpg
->* ShowAutomatically = No
+
 
 
 
@@ -172,9 +149,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754595.jpg
 
 
 
@@ -185,10 +159,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890*
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754596.jpg
-
 
 
 
@@ -198,9 +168,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
 ***1234567890***
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754597.jpg
+
 
 
 
@@ -211,10 +179,6 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754598.jpg
-
 
 
 
@@ -223,10 +187,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 
-
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754599.jpg
 
 
 
