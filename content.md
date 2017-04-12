@@ -2,6 +2,159 @@
 <!---
 Version: 1.0 
 -->
+# Exercise 1
+## INTRODUCTION MESSAGE
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+- abcdefghijklmnopqrstuvwxyz
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- 1234567890
+
+ - abcdefghijklmnopqrstuvwxyz
+ - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ - 1234567890
+
+
+
+
+**abcdefghijklmnopqrstuvwxyz**  
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
+**1234567890**  
+  
+*abcdefghijklmnopqrstuvwxyz*  
+*ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
+*1234567890*  
+  
+***abcdefghijklmnopqrstuvwxyz***  
+***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
+***1234567890***  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+1. abcdefghijklmnopqrstuvwxyz
+2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3. 1234567890
+
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+<sup>abcdefghijklmnopqrstuvwxyz</sup>  
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
+<sup>1234567890</sup>  
+  
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890</sub>  
+  
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890`
+
+
+## COMPLETION MESSAGE
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+- abcdefghijklmnopqrstuvwxyz
+- ABCDEFGHIJKLMNOPQRSTUVWXYZ
+- 1234567890
+
+ - abcdefghijklmnopqrstuvwxyz
+ - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ - 1234567890
+
+
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+1. abcdefghijklmnopqrstuvwxyz
+2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
+3. 1234567890
+
+
+
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+  
+<sup>abcdefghijklmnopqrstuvwxyz</sup>  
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
+<sup>1234567890</sup>  
+  
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890</sub>  
+  
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890`
+
+### Test Step
+Test Step
+
 # Exercise 2
 ## INTRODUCTION MESSAGE
 
