@@ -907,9 +907,9 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
-\`~!@\#$%^&\*\))\_\+  
+\`~!@\#$%^\*\))\_\+  
 \[\]\{\}\\|  
-,./<>?
+,./<?
 
 
 - abcdefghijklmnopqrstuvwxyz
