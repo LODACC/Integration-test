@@ -157,6 +157,10 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754594.jpg
+>* ShowAutomatically = No
 
 
 
@@ -167,6 +171,9 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
 
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754595.jpg
 
 
 
@@ -176,7 +183,9 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890*
 
-
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754596.jpg
 
 
 
