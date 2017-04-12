@@ -152,8 +152,80 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 `ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
 `1234567890`
 
-### Test Step
-Test Step
+### Standard
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754594.jpg
+>* ShowAutomatically = No
+
+
+
+
+
+### Bold
+**abcdefghijklmnopqrstuvwxyz**  
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
+**1234567890**
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754595.jpg
+
+
+
+
+
+### Italic
+*abcdefghijklmnopqrstuvwxyz*  
+*ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
+*1234567890*
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754596.jpg
+
+
+
+
+
+### Bold Italic
+***abcdefghijklmnopqrstuvwxyz***  
+***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
+***1234567890***
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754597.jpg
+
+
+
+
+
+### Text Color
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754598.jpg
+
+
+
+
+
+### Background Color
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754599.jpg
 
 # Exercise 2
 ## INTRODUCTION MESSAGE
