@@ -130,13 +130,6 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890  
   
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>  
   
 
 
@@ -250,18 +243,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
-
-
-
-
-
-
-
-### Code
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890`
-
 
 
 
