@@ -65,13 +65,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890  
   
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>  
+
   
 
 ## COMPLETION MESSAGE
@@ -258,22 +252,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 1234567890
 
 
-
-
-
-### Superscript
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>
-
-
-
-
-
-### Subscript
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>
 
 
 
@@ -563,20 +541,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 \`~!@\#$%^&\*\))\_\+  
 \[\]\{\}\\  
 ,./<>?  
-  
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890-=</sup>  
-<sup>`~!@#$%^&amp;*()_+</sup>  
-<sup>[]{}\</sup>  
-<sup>,./&lt;&gt;?</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890-=</sub>  
-<sub>`~!@#$%^&amp;*()_+</sub>  
-<sub>[]{}\</sub>  
-<sub>,./&lt;&gt;?</sub>  
+    
   
 
 
@@ -682,19 +647,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 \[\]\{\}\\  
 ,./<>?  
   
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890-=</sup>  
-<sup>`~!@#$%^&amp;*()_+</sup>  
-<sup>[]{}\</sup>  
-<sup>,./&lt;&gt;?</sup>  
-  
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890-=</sub>  
-<sub>`~!@#$%^&amp;*()_+</sub>  
-<sub>[]{}\</sub>  
-<sub>,./&lt;&gt;?</sub>  
   
 
 
@@ -819,25 +771,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
-### Superscript
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890-=</sup>  
-<sup>`~!@#$%^&amp;*()_+</sup>  
-<sup>[]{}\</sup>  
-<sup>,./&lt;&gt;?</sup>
 
-
-
-
-
-### Subscript
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890-=</sub>  
-<sub>`~!@#$%^&amp;*()_+</sub>  
-<sub>[]{}\</sub>  
-<sub>,./&lt;&gt;?</sub>
 
 
 
