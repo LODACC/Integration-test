@@ -209,7 +209,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Text Color
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -222,7 +222,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Background Color
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+
 
 #### :camera: SCREENSHOT
 >LODSProperties
@@ -264,45 +264,6 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 
 
-
-
-
-
-### Superscript
-<sup>abcdefghijklmnopqrstuvwxyz</sup>  
-<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
-<sup>1234567890</sup>
-
-
-
-
-
-### Subscript
-<sub>abcdefghijklmnopqrstuvwxyz</sub>  
-<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
-<sub>1234567890</sub>
-
-
-
-
-
-### Code
-`abcdefghijklmnopqrstuvwxyz`  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
-`1234567890`
-
-
-
-
-
-### Paragraph
-
-
-abcdefghijklmnopqrstuvwxyz
-
-
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
