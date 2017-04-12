@@ -6,9 +6,7 @@ Version: 6.0
 ## INTRODUCTION MESSAGE
 
 
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+abcdefghijklmnopqrstuvwxyz  ABCDEFGHIJKLMNOPQRSTUVWXYZ  1234567890
   
 
   
@@ -20,36 +18,28 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Font Family
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+abcdefghijklmnopqrstuvwxyz  ABCDEFGHIJKLMNOPQRSTUVWXYZ  1234567890
 
 
 
 
 
 ### Font Size
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+abcdefghijklmnopqrstuvwxyz  ABCDEFGHIJKLMNOPQRSTUVWXYZ  234567890
 
 
 
 
 
 ### Underline
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ 1234567890
 
 
 
 
 
 ### StrikeThrough
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890
+abcdefghijklmnopqrstuvwxyz  ABCDEFGHIJKLMNOPQRSTUVWXYZ  1234567890
 
 
 
@@ -57,15 +47,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Paragraph
 
 
-abcdefghijklmnopqrstuvwxyz
-
-
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-
-
-1234567890
+abcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
 
 
 
