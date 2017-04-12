@@ -157,10 +157,6 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754594.jpg
->* ShowAutomatically = No
 
 
 
@@ -171,9 +167,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754595.jpg
+
 
 
 
@@ -183,9 +177,6 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890*
 
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754596.jpg
 
 
 
@@ -208,7 +199,237 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 
+### Font Family
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
 
+
+
+
+
+### Font Size
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+
+### Underline
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+
+### StrikeThrough
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+
+### Superscript
+<sup>abcdefghijklmnopqrstuvwxyz</sup>  
+<sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
+<sup>1234567890</sup>
+
+
+
+
+
+### Subscript
+<sub>abcdefghijklmnopqrstuvwxyz</sub>  
+<sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
+<sub>1234567890</sub>
+
+
+
+
+
+### Code
+`abcdefghijklmnopqrstuvwxyz`  
+`ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
+`1234567890`
+
+
+
+
+
+### Paragraph
+
+
+abcdefghijklmnopqrstuvwxyz
+
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+
+1234567890
+
+
+
+
+
+
+
+### VM Select
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+#### :computer: ACTIONS
+>LODSProperties
+>* VM = Windows 10
+
+
+
+### Eject Floppy
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+#### :computer: ACTIONS
+>LODSProperties
+>* FloppyDrive = True
+
+
+
+### Eject DVD
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+
+#### :computer: ACTIONS
+>LODSProperties
+>* DVDDrive = True
+
+
+
+### Type Text
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890
+
+
+
+#### :calling: COMMAND
+```TypeText
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+```
+
+
+### PowerShell
+Text
+
+
+
+#### :calling: COMMAND
+```PowerShell
+Ping 8.8.8.8
+```
+
+
+### PowerShell with UI
+Some Text
+
+
+
+#### :calling: COMMAND
+```PowerShellWithUi
+Ping 8.8.8.8
+```
+
+
+### Shell
+Some text
+
+
+
+#### :calling: COMMAND
+```Shell
+Ping 8.8.8.8
+```
+
+
+### Shell with UI
+Some text
+
+
+
+#### :calling: COMMAND
+```ShellWithUi
+Ping 8.8.8.8
+```
+
+
+### Alert
+Some text
+
+#### :warning: ALERT
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+
+
+
+
+### Knowledge box
+Some text
+
+#### :bulb: KNOWLEDGE
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+
+
+
+
+### Alert and Knowledge box
+Some Text
+
+#### :warning: ALERT
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
+#### :bulb: KNOWLEDGE
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
 
 
 
@@ -216,6 +437,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
+
 
 
 # Exercise 2
