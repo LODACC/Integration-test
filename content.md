@@ -924,7 +924,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\
 ,./<>?
 
 
@@ -932,14 +932,14 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - 1234567890-=
 - \`~!@\#$%^&\*\))\_\+
-- \[\]\{\}\\|
+- \[\]\{\}\\
 - ,./<>?
 
  - abcdefghijklmnopqrstuvwxyz
  - ABCDEFGHIJKLMNOPQRSTUVWXYZ
  - 1234567890-=
  - \`~!@\#$%^&\*\))\_\+
- - \[\]\{\}\\|
+ - \[\]\{\}\\
  - ,./<>?
 
 
@@ -949,49 +949,49 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890-=**  
 **\`~!@\#$%^&\*\))\_\+**  
-**\[\]\{\}\\**|  
+**\[\]\{\}\\**
 **,./<>?**  
   
 *abcdefghijklmnopqrstuvwxyz*  
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890-=*  
 *\`~!@\#$%^&\*\))\_\+*  
-*\[\]\{\}\\*|  
+*\[\]\{\}\\*  
 *,./<>?*  
   
 ***abcdefghijklmnopqrstuvwxyz***  
 ***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
 ***1234567890-=***  
 ***\`~!@\#$%^&\*\))\_\+***  
-***\[\]\{\}\\***|  
+***\[\]\{\}\\***  
 ***,./<>?***  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
@@ -999,7 +999,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
 3. 1234567890-=
 4. \`~!@\#$%^&\*\))\_\+
-5. \[\]\{\}\\|
+5. \[\]\{\}\\
 6. ,./<>?
 
 
@@ -1008,35 +1008,35 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 <sup>abcdefghijklmnopqrstuvwxyz</sup>  
 <sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
 <sup>1234567890-=</sup>  
 <sup>`~!@#$%^&amp;*()_+</sup>  
-<sup>[]{}\|</sup>  
+<sup>[]{}\</sup>  
 <sup>,./&lt;&gt;?</sup>  
   
 <sub>abcdefghijklmnopqrstuvwxyz</sub>  
 <sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
 <sub>1234567890-=</sub>  
 <sub>`~!@#$%^&amp;*()_+</sub>  
-<sub>[]{}\</sub>|  
+<sub>[]{}\</sub>  
 <sub>,./&lt;&gt;?</sub>  
   
 `abcdefghijklmnopqrstuvwxyz`  
 `ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
 `1234567890-=`  
 ``~!@#$%^&amp;*()_+`  
-`[]{}\`|  
+`[]{}\`  
 `,./&lt;&gt;?`
 
 
@@ -1047,7 +1047,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
@@ -1055,14 +1055,14 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - 1234567890-=
 - \`~!@\#$%^&\*\))\_\+
-- \[\]\{\}\\|
+- \[\]\{\}\\
 - ,./<>?
 
  - abcdefghijklmnopqrstuvwxyz
  - ABCDEFGHIJKLMNOPQRSTUVWXYZ
  - 1234567890-=
  - \`~!@\#$%^&\*\))\_\+
- - \[\]\{\}\\|
+ - \[\]\{\}\\
  - ,./<>?
 
 
@@ -1072,49 +1072,49 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890-=**  
 **\`~!@\#$%^&\*\))\_\+**  
-**\[\]\{\}\\**|  
+**\[\]\{\}\\**  
 **,./<>?**  
   
 *abcdefghijklmnopqrstuvwxyz*  
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890-=*  
 *\`~!@\#$%^&\*\))\_\+*  
-*\[\]\{\}\\*|  
+*\[\]\{\}\\*  
 *,./<>?*  
   
 ***abcdefghijklmnopqrstuvwxyz***  
 ***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
 ***1234567890-=***  
 ***\`~!@\#$%^&\*\))\_\+***  
-***\[\]\{\}\\***|  
+***\[\]\{\}\\***  
 ***,./<>?***  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
@@ -1122,7 +1122,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 2. ABCDEFGHIJKLMNOPQRSTUVWXYZ
 3. 1234567890-=
 4. \`~!@\#$%^&\*\))\_\+
-5. \[\]\{\}\\|
+5. \[\]\{\}\\
 6. ,./<>?
 
 
@@ -1131,35 +1131,35 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?  
   
 <sup>abcdefghijklmnopqrstuvwxyz</sup>  
 <sup>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sup>  
 <sup>1234567890-=</sup>  
 <sup>`~!@#$%^&amp;*()_+</sup>  
-<sup>[]{}\|</sup>  
+<sup>[]{}\</sup>  
 <sup>,./&lt;&gt;?</sup>  
   
 <sub>abcdefghijklmnopqrstuvwxyz</sub>  
 <sub>ABCDEFGHIJKLMNOPQRSTUVWXYZ</sub>  
 <sub>1234567890-=</sub>  
 <sub>`~!@#$%^&amp;*()_+</sub>  
-<sub>[]{}\</sub>|  
+<sub>[]{}\</sub>  
 <sub>,./&lt;&gt;?</sub>  
   
 `abcdefghijklmnopqrstuvwxyz`  
 `ABCDEFGHIJKLMNOPQRSTUVWXYZ`  
 `1234567890-=`  
 ``~!@#$%^&amp;*()_+`  
-`[]{}\`|  
+`[]{}\`
 `,./&lt;&gt;?`
 
 
@@ -1168,7 +1168,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
@@ -1180,7 +1180,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890-=**  
 **\`~!@\#$%^&\*\))\_\+**  
-**\[\]\{\}\\|**  
+**\[\]\{\}\\**  
 **,./<>?**
 
 
@@ -1192,7 +1192,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890-=*  
 *\`~!@\#$%^&\*\))\_\+*  
-*\[\]\{\}\\|*  
+*\[\]\{\}\\*  
 *,./<>?*
 
 
@@ -1204,7 +1204,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ***ABCDEFGHIJKLMNOPQRSTUVWXYZ***  
 ***1234567890-=***  
 ***\`~!@\#$%^&\*\))\_\+***  
-***\[\]\{\}\\|***  
+***\[\]\{\}\\***  
 ***,./<>?***
 
 
@@ -1216,7 +1216,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
@@ -1228,7 +1228,7 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890-=  
 \`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\|  
+\[\]\{\}\\  
 ,./<>?
 
 
