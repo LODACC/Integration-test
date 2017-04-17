@@ -171,7 +171,9 @@ Added Screenshot
 **1234567890**
 
 
-
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754595.jpg
 
 
 
@@ -181,6 +183,9 @@ Added Screenshot
 *1234567890*
 
 
+#### :camera: SCREENSHOT
+>LODSProperties
+>* Uri = screens/754596.jpg
 
 
 
