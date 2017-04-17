@@ -156,12 +156,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
-Added Screenshot
-
-#### :camera: SCREENSHOT
->screens
-> Uri = screens/754594.jpg
-> ShowAutomatically = No
+Updated in GitHub 10:33 AM Local Time
 
 
 
