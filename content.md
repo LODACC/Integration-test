@@ -160,8 +160,8 @@ Added Screenshot
 
 #### :camera: SCREENSHOT
 >screens
->* Uri = screens/754594.jpg
->* ShowAutomatically = No
+> Uri = screens/754594.jpg
+> ShowAutomatically = No
 
 
 
