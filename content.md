@@ -406,14 +406,14 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 
 ### Alert and Knowledge box
-Some Text
+Step Text
+
+#### :bulb: KNOWLEDGE
+Knowledge Text
 
 #### :warning: ALERT
 Alert Text
 
-
-#### :bulb: KNOWLEDGE
-Knowledge Text
 
 
 ### Background Color
