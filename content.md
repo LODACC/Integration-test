@@ -158,11 +158,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
-Added screenshot
-
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/754594.jpg
+Removed Screenshot
 
 
 
