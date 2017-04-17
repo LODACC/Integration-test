@@ -408,6 +408,14 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ### Alert and Knowledge box
 Some Text
 
+#### :bulb: KNOWLEDGE
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890-=  
+\`~!@\#$%^&\*\))\_\+  
+\[\]\{\}\\  
+,./<>?
+
 #### :warning: ALERT
 abcdefghijklmnopqrstuvwxyz  
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
@@ -416,13 +424,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 \[\]\{\}\\  
 ,./<>?
 
-#### :bulb: KNOWLEDGE
-abcdefghijklmnopqrstuvwxyz  
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
-1234567890-=  
-\`~!@\#$%^&\*\))\_\+  
-\[\]\{\}\\  
-,./<>?
+
 
 
 
