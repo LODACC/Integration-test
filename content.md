@@ -160,8 +160,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 #### :camera: SCREENSHOT
 >LODSProperties
->* Uri = screens/754594.jpg
->* ShowAutomatically = No
+> Uri = screens/754594.jpg
+> ShowAutomatically = No
 
 
 
