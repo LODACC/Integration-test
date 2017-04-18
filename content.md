@@ -159,34 +159,34 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 Added Screenshot
-
+ShowAutomatically = No
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754594.jpg
-
+>* ShowAutomatically = No
 
 ### Bold
 **abcdefghijklmnopqrstuvwxyz**  
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
-
+ShowAutomatically = Once
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754595.jpg
-
+>* ShowAutomatically = Once
 
 ### Italic
 *abcdefghijklmnopqrstuvwxyz*  
 *ABCDEFGHIJKLMNOPQRSTUVWXYZ*  
 *1234567890*
-
+ShowAutomatically = Always
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754596.jpg
-
+>* ShowAutomatically = Always
 
 
 
