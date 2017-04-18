@@ -159,12 +159,12 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 Added Screenshot
-Show Automatically no
+Show Automatically Once
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754594.jpg
->* ShowAutomatically = No
+>* ShowAutomatically = Once
 
 ### Bold
 **abcdefghijklmnopqrstuvwxyz**  
