@@ -170,7 +170,7 @@ Added Screenshot
 **abcdefghijklmnopqrstuvwxyz**  
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
-
+ShowAutomatically = No
 
 #### :camera: SCREENSHOT
 >LODSProperties
