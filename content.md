@@ -170,12 +170,12 @@ Added Screenshot
 **abcdefghijklmnopqrstuvwxyz**  
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
-ShowAutomatically = Once
+ShowAutomatically = Always
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754595.jpg
->* ShowAutomatically = Once
+>* ShowAutomatically = Always
 
 
 ### Italic
