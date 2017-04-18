@@ -159,23 +159,22 @@ abcdefghijklmnopqrstuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 1234567890
 Added Screenshot
-3:29 PM central.
+Show Automatically no
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754594.jpg
-
+>* ShowAutomatically = No
 
 ### Bold
 **abcdefghijklmnopqrstuvwxyz**  
 **ABCDEFGHIJKLMNOPQRSTUVWXYZ**  
 **1234567890**
-ShowAutomatically = Always
+
 
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754595.jpg
->* ShowAutomatically = Always
 
 
 ### Italic
