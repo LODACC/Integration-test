@@ -175,7 +175,7 @@ Added Screenshot
 #### :camera: SCREENSHOT
 >LODSProperties
 >* Uri = screens/754595.jpg
-
+>* ShowAutomatically = Once
 
 
 ### Italic
