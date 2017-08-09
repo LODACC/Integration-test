@@ -1,2 +1,2 @@
-# Integration-test
+# Documentation
 Used to test our integration
